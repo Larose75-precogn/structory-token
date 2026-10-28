@@ -1,30 +1,28 @@
-# Tokenomics — preliminary hypotheses only
+# Pré-seed et répartition — hypothèses de discussion
 
-**Nothing in this document is approved or final.** The figures below preserve early brainstorming. They must be tested against a real contribution model, funding needs, governance and legal constraints.
+**Aucune des hypothèses ci-dessous n'est une décision définitive.**
 
-## Early numbers mentioned in brainstorming
+## Scénario évoqué
 
-| Item | Initial hypothesis | Status |
-|---|---:|---|
-| Maximum supply | 100,000,000 tokens | Illustrative only |
-| Potential reserve for contribution rewards | 60,000,000 tokens | Illustrative only |
-| Initial allocation for Larose75 | 10,000 tokens | Illustrative only; not a commitment |
-| Pre-seed funding target discussed | €150,000 or US$200,000 | Alternatives discussed, not a financing decision |
-| Possible allocation to contributors | A portion of remaining or reserved tokens | Formula and criteria not defined |
+| Élément | Piste discutée | Statut |
+|---|---|---|
+| Pré-seed | 150 000 € | Option évoquée |
+| Pré-seed | 200 000 $ | Option alternative évoquée |
+| Rémunération envisagée pour Larose75 | 50 000 € | Hypothèse à préciser |
+| Solde | Rémunération des contributeurs | Répartition à définir selon les jetons déjà attribués ou restant à attribuer |
 
-These figures are not a cap table, binding allocation, valuation, sale offer or token contract specification.
+Les deux montants de pré-seed sont des alternatives : ne pas les additionner. La conversation n'a pas fixé de supply totale, de prix de token, de pourcentage d'allocation, de calendrier de vesting ni de répartition chiffrée complète.
 
-## Questions before a model can be evaluated
-1. Is the token needed, or would points/grants be better initially?
-2. What counts as a contribution and who validates it?
-3. What are the supply and issuance schedule, and why?
-4. How are founder, contributor, treasury, ecosystem and investor allocations separated?
-5. How are disputed, abandoned or returned allocations handled?
-6. How does the pre-seed relate to the budget, and is any token sale contemplated?
-7. What governance controls changes to rules, supply and allocations?
-8. What legal, tax, accounting and regulatory regime applies?
-9. What demonstrates real demand before considering exchange access?
-10. What security review and operational controls are required?
+## Points à clarifier
 
-## Important distinction
-A token can be technically transferable without being liquid. A market requires willing buyers and sellers; exchange listing and a counterparty cannot be guaranteed.
+1. Le pré-seed est-il libellé en euros ou en dollars ?
+2. Que signifie exactement « rémunérer Larose75 » dans le montage retenu, et comment cette rémunération serait-elle financée ?
+3. Quels jetons ont déjà été attribués, à qui, et selon quelles règles ?
+4. Combien de jetons restent à attribuer aux contributeurs ?
+5. Comment le solde du financement et les attributions de jetons seraient-ils reliés — ou séparés ?
+6. Comment le token pourrait-il être échangé en pratique, sans présumer de l'existence d'un acheteur ou d'une liquidité ?
+7. Quelles analyses juridiques, fiscales, comptables et techniques sont nécessaires avant toute mise en œuvre ?
+
+## Prudence sur l'échange
+
+Un token techniquement transférable n'est pas nécessairement liquide. Le lancement, l'existence d'une demande et la présence d'une contrepartie restent des questions à résoudre ; aucune cotation ou valeur de marché n'est garantie.
