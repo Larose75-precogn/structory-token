@@ -1,24 +1,39 @@
-# Questions ouvertes — Token Structory
+# Questions ouvertes / Open questions — Token STRUCTORY
 
-## Lancement et échanges
-- Comment un token pourrait-il commencer à s'échanger naturellement ?
+## Français
+### Lancement et échanges
+- Comment le token pourrait-il commencer à s'échanger naturellement ?
 - Quelle demande réelle pourrait exister au lancement ?
-- Comment traiter l'absence possible d'acheteurs ou de contreparties et l'absence de liquidité ?
+- Comment traiter l'absence possible d'acheteurs, de contreparties ou de liquidité ?
 - Que signifie concrètement « librement échangeable » pour le projet ?
 
-## Pré-seed et rémunération
-- Le pré-seed envisagé serait-il de 150 000 € ou de 200 000 $ ?
-- Comment formaliser l'hypothèse de 50 000 € pour rémunérer Larose75 ?
-- Quel serait le montant net disponible ensuite pour les contributeurs ?
-- Quel lien exact, s'il en existe un, relierait le financement aux attributions de jetons ?
+### Attributions et gouvernance
+- Quel inventaire fiable existe des tokens déjà attribués ?
+- Combien de tokens restent à attribuer ?
+- Quels bénéficiaires, montants et critères ont été confirmés, et lesquels restent ouverts ?
+- Quelles règles de déblocage progressif s'appliqueraient aux allocations concernées ?
+- Comment le mécanisme collectif de gouvernance fonctionnerait-il ?
 
-## Attributions aux contributeurs
-- Quel inventaire fiable existe des jetons déjà attribués ?
-- Combien de jetons restent à attribuer ?
-- Quels bénéficiaires, montants et critères ont déjà été décidés, et lesquels restent ouverts ?
-- Comment éviter de présenter une hypothèse comme une allocation confirmée ?
-
-## Avant toute mise en œuvre
+### Avant mise en œuvre
 - Quelle structure technique serait appropriée ?
 - Quelles vérifications juridiques, fiscales, comptables et de sécurité seraient nécessaires ?
-- Quelles informations doivent être arrêtées avant toute communication publique ou lancement ?
+- Quels documents doivent être prêts avant une communication publique ou un lancement ?
+
+## English
+### Launch and trading
+- How could the token begin trading naturally?
+- What real demand might exist at launch?
+- How should the project address the possibility of no buyers, counterparties or sufficient liquidity?
+- What does “freely tradable” mean in practice?
+
+### Allocations and governance
+- What reliable inventory exists of tokens already allocated?
+- How many tokens remain available?
+- Which beneficiaries, amounts and criteria have been confirmed, and which remain open?
+- What vesting rules would apply to relevant allocations?
+- How would the collective governance mechanism work?
+
+### Before implementation
+- Which technical structure would be appropriate?
+- Which legal, tax, accounting and security reviews are needed?
+- Which documents must be ready before public communications or launch?
