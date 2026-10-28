@@ -1,29 +1,32 @@
-# Token Structory — concept issu de notre conversation
+# Token STRUCTORY — concept issu de la conversation
 
-## Intention discutée
+## Utilité recherchée
 
-Explorer un token lié à l'écosystème Structory, avec la possibilité qu'il soit librement échangeable.
+Le token STRUCTORY est envisagé pour l'écosystème Structory–PreCogn. L'utilité discutée est concrète : **payer des missions et acheter/vendre des services dans l'écosystème**.
 
-La question de fond posée dans notre conversation est économique : **comment un token peut-il se lancer et commencer à s'échanger naturellement, sans contrepartie garantie au départ ?** Le fait de rendre un token transférable ne garantit ni acheteurs, ni demande, ni liquidité. C'est précisément un point à résoudre, pas une hypothèse à présenter comme acquise.
+Le token est envisagé comme librement échangeable sur un marché. Cela ne signifie pas qu'une liquidité ou une contrepartie seront automatiquement disponibles : le mécanisme de démarrage du marché reste une question à résoudre.
 
-## Piste de pré-seed
+Il ne s'agit pas d'archiver des services ni de prétendre que PreCogn doit devenir un registre de preuves de contribution. Cette interprétation avait été ajoutée à tort dans une version précédente.
 
-Deux montants ont été évoqués comme possibilités :
-- 150 000 € ;
-- ou 200 000 $.
+## Base technique discutée
 
-Ce sont deux pistes alternatives évoquées, pas un montant final arrêté.
+- Blockchain envisagée : Ethereum.
+- Standard à examiner : ERC-20.
+- Plafond de supply discuté : 100 000 000 STRUCTORY.
+- Aucun token n'est émis et aucun contrat n'est déployé.
 
-Dans le scénario discuté, l'idée était d'envisager 50 000 € pour rémunérer Larose75, puis d'affecter le reste aux contributeurs selon les jetons déjà attribués ou restant à attribuer. La mécanique précise, les bénéficiaires, les quantités et les conditions ne sont pas encore établis.
+## Valorisation et supply : deux notions distinctes
 
-## À ne pas confondre
+Un objectif de valorisation à terme de **100 M€ pour Structory–PreCogn** a été évoqué. Ce chiffre ne fixe pas la valeur du token, ne garantit pas la capitalisation du token et ne doit pas être confondu avec le plafond de 100 millions de STRUCTORY.
 
-Ce dépôt conserve une réflexion en cours. Il ne décrit pas un token déjà créé, une vente ouverte, un prix, une cotation, une promesse de rendement ou une liquidité disponible.
+## Gouvernance
 
-## Questions centrales
+Un principe d'arbitrage a été discuté : Larose75 en premier ressort, puis un mécanisme collectif. Les modalités de ce mécanisme restent à définir.
 
-- Quel mécanisme concret permettrait au token de démarrer et de trouver des échanges ?
-- Quelle serait la relation exacte entre le pré-seed, les fonds reçus et les jetons éventuellement attribués ?
-- Comment distinguer les jetons déjà attribués de ceux qui restent disponibles ?
-- Comment répartir le solde entre contributeurs, avec quelles règles et à quel moment ?
-- Quelles conditions juridiques, fiscales, comptables et techniques s'appliqueraient avant de passer à l'exécution ?
+## Questions économiques encore ouvertes
+
+- Comment le token démarre-t-il et trouve-t-il des échanges sans supposer une contrepartie garantie ?
+- Comment les tokens servent-ils effectivement aux paiements de missions et aux échanges de services ?
+- Quelle répartition est déjà attribuée et quelle part reste disponible ?
+- Quelles règles de déblocage progressif s'appliquent aux allocations concernées ?
+- Quel cadre juridique, fiscal et comptable s'applique avant un lancement réel ?
