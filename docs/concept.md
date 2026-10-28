@@ -1,32 +1,29 @@
-# Token STRUCTORY — concept issu de la conversation
+# Token STRUCTORY — concept / Concept
 
-## Utilité recherchée
+## Français
+Le token STRUCTORY est envisagé pour l'écosystème Structory–PreCogn. Son utilité discutée est concrète : **payer des missions et acheter/vendre des services dans l'écosystème**. Il pourrait être librement échangeable, sans garantie d'acheteurs ou de liquidité.
 
-Le token STRUCTORY est envisagé pour l'écosystème Structory–PreCogn. L'utilité discutée est concrète : **payer des missions et acheter/vendre des services dans l'écosystème**.
-
-Le token est envisagé comme librement échangeable sur un marché. Cela ne signifie pas qu'une liquidité ou une contrepartie seront automatiquement disponibles : le mécanisme de démarrage du marché reste une question à résoudre.
-
-Il ne s'agit pas d'archiver des services ni de prétendre que PreCogn doit devenir un registre de preuves de contribution. Cette interprétation avait été ajoutée à tort dans une version précédente.
-
-## Base technique discutée
-
-- Blockchain envisagée : Ethereum.
-- Standard à examiner : ERC-20.
-- Plafond de supply discuté : 100 000 000 STRUCTORY.
+### Pistes techniques et économiques
+- Blockchain envisagée : Ethereum ; standard ERC-20 à étudier.
+- Plafond discuté : 100 000 000 STRUCTORY.
+- Objectif de valorisation à terme de Structory–PreCogn évoqué : 100 M€, distinct de la valeur du token.
 - Aucun token n'est émis et aucun contrat n'est déployé.
 
-## Valorisation et supply : deux notions distinctes
+### Fondateur et gouvernance
+Une **allocation au fondateur de 1 000 000 STRUCTORY** a été discutée, avec déblocage progressif comme principe. Un principe d'arbitrage a également été évoqué : le fondateur en premier ressort, puis un mécanisme collectif. Les modalités restent à définir.
 
-Un objectif de valorisation à terme de **100 M€ pour Structory–PreCogn** a été évoqué. Ce chiffre ne fixe pas la valeur du token, ne garantit pas la capitalisation du token et ne doit pas être confondu avec le plafond de 100 millions de STRUCTORY.
+Ce projet ne vise pas à archiver des services ni à transformer PreCogn en registre de preuves de contribution.
 
-## Gouvernance
+## English
+The STRUCTORY token is being considered for the Structory–PreCogn ecosystem. Its discussed practical utility is to **pay for missions and buy/sell services within the ecosystem**. It could be freely tradable, without any guarantee of buyers or liquidity.
 
-Un principe d'arbitrage a été discuté : Larose75 en premier ressort, puis un mécanisme collectif. Les modalités de ce mécanisme restent à définir.
+### Technical and economic directions
+- Blockchain under consideration: Ethereum; ERC-20 to be evaluated.
+- Discussed maximum supply: 100,000,000 STRUCTORY.
+- Discussed long-term valuation goal for Structory–PreCogn: €100 million, distinct from token value.
+- No token has been issued and no contract has been deployed.
 
-## Questions économiques encore ouvertes
+### Founder and governance
+A **1,000,000 STRUCTORY allocation to the founder** has been discussed, with progressive unlocking as a principle. A governance/arbitration principle was also discussed: the founder as the first instance, followed by a collective mechanism. Details remain to be defined.
 
-- Comment le token démarre-t-il et trouve-t-il des échanges sans supposer une contrepartie garantie ?
-- Comment les tokens servent-ils effectivement aux paiements de missions et aux échanges de services ?
-- Quelle répartition est déjà attribuée et quelle part reste disponible ?
-- Quelles règles de déblocage progressif s'appliquent aux allocations concernées ?
-- Quel cadre juridique, fiscal et comptable s'applique avant un lancement réel ?
+The project is not intended to archive services or turn PreCogn into a contribution-proof registry.
