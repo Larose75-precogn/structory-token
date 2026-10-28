@@ -1,38 +1,29 @@
-# Structory Token — concept
+# Token Structory — concept issu de notre conversation
 
-## 1. Intention
-Explore whether a token can help coordinate, recognise and reward useful contributions to the Structory ecosystem over time.
+## Intention discutée
 
-The central question is: **how can the ecosystem identify valuable contributions, prove they happened, and distribute rewards under clear rules?**
+Explorer un token lié à l'écosystème Structory, avec la possibilité qu'il soit librement échangeable.
 
-## 2. Possible contribution model
-A future “Proof of Contribution” process could consider:
-- software, documentation, testing and maintenance;
-- connector or integration work;
-- adoption, deployment and demonstrated user value;
-- community support, training and ecosystem development;
-- funding or other contributions, if separately defined and governed.
+La question de fond posée dans notre conversation est économique : **comment un token peut-il se lancer et commencer à s'échanger naturellement, sans contrepartie garantie au départ ?** Le fait de rendre un token transférable ne garantit ni acheteurs, ni demande, ni liquidité. C'est précisément un point à résoudre, pas une hypothèse à présenter comme acquise.
 
-Claims should not automatically earn rewards. Criteria, evidence, review, conflicts of interest, appeals and correction mechanisms need to be defined.
+## Piste de pré-seed
 
-## 3. Possible role for PreCogn
-PreCogn could record a workflow: contribution submitted → evidence attached → evaluation → decision → reward attribution → audit trail. This is a concept to investigate, not a claim that the full mechanism already exists.
+Deux montants ont été évoqués comme possibilités :
+- 150 000 € ;
+- ou 200 000 $.
 
-## 4. Possible utility
-Potential utility to validate with actual users:
-- recognition and reward for contributions;
-- participation in ecosystem programs;
-- access to specific services or benefits, if there is a real need;
-- transparent tracking of grants or contribution budgets.
+Ce sont deux pistes alternatives évoquées, pas un montant final arrêté.
 
-Do not invent utility merely to justify a token. Test whether conventional points, grants or accounting would solve the problem more simply.
+Dans le scénario discuté, l'idée était d'envisager 50 000 € pour rémunérer Larose75, puis d'affecter le reste aux contributeurs selon les jetons déjà attribués ou restant à attribuer. La mécanique précise, les bénéficiaires, les quantités et les conditions ne sont pas encore établis.
 
-## 5. Distribution and exchange
-Progressive distribution may be worth exploring. Transferability or exchange listing, if legally and technically appropriate, does not create demand or liquidity by itself. No buyer or counterparty can be guaranteed.
+## À ne pas confondre
 
-## 6. Guardrails
-- no promise of price increase, profit, liquidity or listing;
-- no marketing as an investment before legal and economic analysis;
-- distinguish earned rewards, grants, founder allocations and any sale;
-- publish rules and changes transparently;
-- obtain independent legal, tax, accounting and smart-contract security advice before launch.
+Ce dépôt conserve une réflexion en cours. Il ne décrit pas un token déjà créé, une vente ouverte, un prix, une cotation, une promesse de rendement ou une liquidité disponible.
+
+## Questions centrales
+
+- Quel mécanisme concret permettrait au token de démarrer et de trouver des échanges ?
+- Quelle serait la relation exacte entre le pré-seed, les fonds reçus et les jetons éventuellement attribués ?
+- Comment distinguer les jetons déjà attribués de ceux qui restent disponibles ?
+- Comment répartir le solde entre contributeurs, avec quelles règles et à quel moment ?
+- Quelles conditions juridiques, fiscales, comptables et techniques s'appliqueraient avant de passer à l'exécution ?
