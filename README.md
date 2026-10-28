@@ -1,29 +1,39 @@
-# Token Structory
+# Token STRUCTORY
 
-Dépôt de travail consacré au token **STRUCTORY**, envisagé comme un token de l'écosystème Structory–PreCogn.
+**Français | English**
 
-## Idée centrale discutée
+## Français
+Dépôt de travail consacré au token **STRUCTORY** pour l'écosystème Structory–PreCogn. Utilité envisagée : **payer des missions et acheter/vendre des services**. Le token pourrait être librement échangeable, sans garantie d'acheteurs ou de liquidité.
 
-Le token doit avoir une utilité dans l'écosystème : **payer des missions et acheter/vendre des services**. L'idée est qu'il puisse être librement échangeable sur un marché. Il ne s'agit pas d'un système d'archives de services ni d'un mécanisme présenté comme déjà arrêté.
+- Blockchain envisagée : Ethereum ; standard ERC-20 à étudier.
+- Plafond discuté : **100 000 000 STRUCTORY**.
+- Objectif de valorisation de Structory–PreCogn évoqué : **100 M€**, distinct de la valeur du token.
+- **Allocation au fondateur : 1 000 000 STRUCTORY**, avec déblocage progressif comme principe discuté.
+- Gouvernance évoquée : le fondateur en premier ressort, puis un mécanisme collectif à définir.
 
-## Repères de la discussion
+Aucun token n'a été émis et aucun contrat n'a été déployé. Ces chiffres sont des hypothèses de travail, pas des garanties.
 
-- **Blockchain envisagée : Ethereum**, avec un token de type ERC-20 à étudier.
-- **Plafond discuté : 100 000 000 STRUCTORY**.
-- **Objectif de valorisation évoqué pour Structory–PreCogn : 100 M€**. C'est distinct du nombre maximal de tokens et ne signifie pas que les tokens valent collectivement 100 M€.
-- Une allocation initiale de **1 000 000 STRUCTORY à Larose75** a été discutée, avec déblocage progressif (vesting) accepté comme principe.
-- Le financement pré-seed et les modalités d'allocation aux contributeurs ont été explorés, mais les paramètres doivent rester rattachés à la proposition précise de la conversation et ne pas être transformés en décisions fermes.
-- Gouvernance/arbitrage discuté : Larose75 en premier ressort, puis mécanisme collectif.
+Documents : [Concept](docs/concept.md) · [Hypothèses économiques](docs/tokenomics-hypotheses.md) · [Questions ouvertes](docs/open-questions.md) · [Étude d'ouverture publique](docs/public-release-study.md) · [Décisions](docs/decisions.md)
 
-## État
+**Crédit :** structuration documentaire par **Gimly**, assistant IA, à partir des éléments de travail du projet. Les décisions appartiennent au porteur du projet.
 
-Aucun token n'a été émis et aucun contrat n'a été déployé. Le plafond, la valeur cible, les allocations, les règles d'échange et les modalités de financement ne sont pas des garanties de valeur ou de liquidité.
+Le logo original fourni par le porteur du projet doit être intégré tel quel, sans redessin.
 
-## Documents
+---
 
-- [Concept et utilité](docs/concept.md)
-- [Hypothèses économiques discutées](docs/tokenomics-hypotheses.md)
-- [Questions ouvertes](docs/open-questions.md)
-- [Journal des décisions](docs/decisions.md)
+## English
+This repository documents the **STRUCTORY** token concept for the Structory–PreCogn ecosystem. Intended utility: **paying for missions and buying/selling services**. The token could be freely tradable, without any guarantee of buyers or liquidity.
 
-Le logo de référence est celui fourni par le porteur du projet. Le fichier graphique générique créé précédemment a été supprimé ; le logo original reste à intégrer comme fichier binaire sans le redessiner.
+- Blockchain under consideration: Ethereum; ERC-20 to be evaluated.
+- Discussed maximum supply: **100,000,000 STRUCTORY**.
+- Discussed Structory–PreCogn valuation goal: **€100 million**, distinct from token value.
+- **Founder allocation: 1,000,000 STRUCTORY**, with progressive unlocking discussed as a principle.
+- Governance discussed: the founder as first instance, followed by a collective mechanism to be defined.
+
+No token has been issued and no contract has been deployed. These figures are working hypotheses, not guarantees.
+
+Documents: [Concept](docs/concept.md) · [Tokenomics](docs/tokenomics-hypotheses.md) · [Open questions](docs/open-questions.md) · [Public-release study](docs/public-release-study.md) · [Decisions](docs/decisions.md)
+
+**Credit:** documentation structured by **Gimly**, an AI assistant, based on project working materials. Decisions remain with the project owner.
+
+The original logo supplied by the project owner must be added as-is, without redrawing.
