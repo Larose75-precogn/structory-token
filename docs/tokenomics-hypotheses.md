@@ -1,29 +1,41 @@
-# Hypothèses économiques discutées — STRUCTORY
+# Hypothèses économiques / Tokenomics hypotheses — STRUCTORY
 
-Ce document conserve les chiffres qui ont réellement été abordés. Il distingue les plafonds, les objectifs de valorisation, les allocations et les pistes de financement. Rien ici ne constitue une promesse de valeur, de liquidité ou de rendement.
-
-## Paramètres discutés
+## Français
+Les chiffres ci-dessous sont des éléments discutés, pas des garanties de valeur, de liquidité ou de rendement.
 
 | Élément | Valeur évoquée | Sens |
 |---|---:|---|
-| Plafond maximal | 100 000 000 STRUCTORY | Nombre maximal de tokens envisagé |
-| Valorisation cible à terme de Structory–PreCogn | 100 M€ | Objectif concernant l'écosystème/entreprise, pas une valeur garantie des tokens |
-| Allocation Larose75 | 1 000 000 STRUCTORY | Allocation discutée, avec déblocage progressif accepté comme principe |
-| Blockchain | Ethereum | Piste technique |
-| Standard de token | ERC-20 | Standard à examiner |
+| Plafond maximal | 100 000 000 STRUCTORY | Nombre maximal envisagé |
+| Objectif de valorisation de Structory–PreCogn | 100 M€ | Objectif pour l'écosystème/entreprise, distinct de la valeur du token |
+| Allocation au fondateur | 1 000 000 STRUCTORY | Allocation discutée ; déblocage progressif envisagé comme principe |
+| Blockchain | Ethereum | Piste à étudier |
+| Standard | ERC-20 | Standard à examiner |
 
-## Financement et rémunération des contributeurs
+### À clarifier
+- Inventorier les tokens déjà attribués et ceux restant à attribuer.
+- Définir les règles de déblocage progressif pour les allocations concernées.
+- Définir l'usage effectif des tokens pour payer des missions et acheter/vendre des services.
+- Définir le fonctionnement pratique des échanges sans promettre de liquidité.
+- Distinguer financement, rémunération du travail, distribution de tokens et objectif de valorisation. Ne pas déduire de montants ou d'engagements non confirmés.
 
-Une discussion ultérieure a porté sur un pré-seed et sur la manière de rémunérer le travail de développement, notamment Larose75 et les contributeurs. Les montants ne doivent pas être présentés isolément comme une décision finale ni mélangés avec les allocations de tokens ci-dessus : il faut se référer à la proposition de financement précise et clarifier le lien entre fonds levés, rémunération en euros/dollars et allocations de STRUCTORY.
+Le plafond de 100 millions ne signifie pas que chaque token vaut 1 €, et l'objectif de 100 M€ ne garantit ni prix de marché, ni capitalisation, ni liquidité.
 
-## Principes à clarifier
+## English
+The figures below are discussion points, not guarantees of value, liquidity or returns.
 
-- Inventorier les tokens déjà attribués et ceux qui restent à attribuer.
-- Définir les règles de déblocage progressif (vesting) pour les allocations concernées.
-- Définir comment les tokens seront utilisés pour payer des missions et acheter/vendre des services.
-- Définir le fonctionnement pratique de l'échange et du démarrage du marché sans promettre de liquidité.
-- Distinguer clairement les fonds de pré-seed, la rémunération du travail, la distribution des tokens et la valorisation cible de Structory–PreCogn.
+| Item | Discussed figure | Meaning |
+|---|---:|---|
+| Maximum supply | 100,000,000 STRUCTORY | Proposed maximum |
+| Structory–PreCogn valuation goal | €100 million | Goal for the ecosystem/business, distinct from token value |
+| Founder allocation | 1,000,000 STRUCTORY | Discussed allocation; progressive unlocking considered as a principle |
+| Blockchain | Ethereum | Option to investigate |
+| Standard | ERC-20 | Standard to evaluate |
 
-## Attention
+### To clarify
+- Inventory tokens already allocated and those still available.
+- Define vesting rules for relevant allocations.
+- Define how tokens will actually be used to pay for missions and buy/sell services.
+- Define how trading could work without promising liquidity.
+- Keep funding, work compensation, token distribution and the valuation goal distinct. Do not infer unconfirmed amounts or commitments.
 
-Le plafond de 100 millions de tokens ne signifie pas que chaque token vaut 1 €, et l'objectif de valorisation de 100 M€ ne garantit ni prix de marché, ni capitalisation, ni liquidité.
+A 100-million token cap does not mean each token is worth €1, and a €100 million goal guarantees neither a market price nor token capitalization or liquidity.
