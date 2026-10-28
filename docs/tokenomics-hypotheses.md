@@ -1,28 +1,29 @@
-# Pré-seed et répartition — hypothèses de discussion
+# Hypothèses économiques discutées — STRUCTORY
 
-**Aucune des hypothèses ci-dessous n'est une décision définitive.**
+Ce document conserve les chiffres qui ont réellement été abordés. Il distingue les plafonds, les objectifs de valorisation, les allocations et les pistes de financement. Rien ici ne constitue une promesse de valeur, de liquidité ou de rendement.
 
-## Scénario évoqué
+## Paramètres discutés
 
-| Élément | Piste discutée | Statut |
-|---|---|---|
-| Pré-seed | 150 000 € | Option évoquée |
-| Pré-seed | 200 000 $ | Option alternative évoquée |
-| Rémunération envisagée pour Larose75 | 50 000 € | Hypothèse à préciser |
-| Solde | Rémunération des contributeurs | Répartition à définir selon les jetons déjà attribués ou restant à attribuer |
+| Élément | Valeur évoquée | Sens |
+|---|---:|---|
+| Plafond maximal | 100 000 000 STRUCTORY | Nombre maximal de tokens envisagé |
+| Valorisation cible à terme de Structory–PreCogn | 100 M€ | Objectif concernant l'écosystème/entreprise, pas une valeur garantie des tokens |
+| Allocation Larose75 | 1 000 000 STRUCTORY | Allocation discutée, avec déblocage progressif accepté comme principe |
+| Blockchain | Ethereum | Piste technique |
+| Standard de token | ERC-20 | Standard à examiner |
 
-Les deux montants de pré-seed sont des alternatives : ne pas les additionner. La conversation n'a pas fixé de supply totale, de prix de token, de pourcentage d'allocation, de calendrier de vesting ni de répartition chiffrée complète.
+## Financement et rémunération des contributeurs
 
-## Points à clarifier
+Une discussion ultérieure a porté sur un pré-seed et sur la manière de rémunérer le travail de développement, notamment Larose75 et les contributeurs. Les montants ne doivent pas être présentés isolément comme une décision finale ni mélangés avec les allocations de tokens ci-dessus : il faut se référer à la proposition de financement précise et clarifier le lien entre fonds levés, rémunération en euros/dollars et allocations de STRUCTORY.
 
-1. Le pré-seed est-il libellé en euros ou en dollars ?
-2. Que signifie exactement « rémunérer Larose75 » dans le montage retenu, et comment cette rémunération serait-elle financée ?
-3. Quels jetons ont déjà été attribués, à qui, et selon quelles règles ?
-4. Combien de jetons restent à attribuer aux contributeurs ?
-5. Comment le solde du financement et les attributions de jetons seraient-ils reliés — ou séparés ?
-6. Comment le token pourrait-il être échangé en pratique, sans présumer de l'existence d'un acheteur ou d'une liquidité ?
-7. Quelles analyses juridiques, fiscales, comptables et techniques sont nécessaires avant toute mise en œuvre ?
+## Principes à clarifier
 
-## Prudence sur l'échange
+- Inventorier les tokens déjà attribués et ceux qui restent à attribuer.
+- Définir les règles de déblocage progressif (vesting) pour les allocations concernées.
+- Définir comment les tokens seront utilisés pour payer des missions et acheter/vendre des services.
+- Définir le fonctionnement pratique de l'échange et du démarrage du marché sans promettre de liquidité.
+- Distinguer clairement les fonds de pré-seed, la rémunération du travail, la distribution des tokens et la valorisation cible de Structory–PreCogn.
 
-Un token techniquement transférable n'est pas nécessairement liquide. Le lancement, l'existence d'une demande et la présence d'une contrepartie restent des questions à résoudre ; aucune cotation ou valeur de marché n'est garantie.
+## Attention
+
+Le plafond de 100 millions de tokens ne signifie pas que chaque token vaut 1 €, et l'objectif de valorisation de 100 M€ ne garantit ni prix de marché, ni capitalisation, ni liquidité.
