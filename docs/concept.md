@@ -1,38 +1,32 @@
-# Structory Token — concept
+# Token STRUCTORY — concept issu de la conversation
 
-## 1. Intention
-Explore whether a token can help coordinate, recognise and reward useful contributions to the Structory ecosystem over time.
+## Utilité recherchée
 
-The central question is: **how can the ecosystem identify valuable contributions, prove they happened, and distribute rewards under clear rules?**
+Le token STRUCTORY est envisagé pour l'écosystème Structory–PreCogn. L'utilité discutée est concrète : **payer des missions et acheter/vendre des services dans l'écosystème**.
 
-## 2. Possible contribution model
-A future “Proof of Contribution” process could consider:
-- software, documentation, testing and maintenance;
-- connector or integration work;
-- adoption, deployment and demonstrated user value;
-- community support, training and ecosystem development;
-- funding or other contributions, if separately defined and governed.
+Le token est envisagé comme librement échangeable sur un marché. Cela ne signifie pas qu'une liquidité ou une contrepartie seront automatiquement disponibles : le mécanisme de démarrage du marché reste une question à résoudre.
 
-Claims should not automatically earn rewards. Criteria, evidence, review, conflicts of interest, appeals and correction mechanisms need to be defined.
+Il ne s'agit pas d'archiver des services ni de prétendre que PreCogn doit devenir un registre de preuves de contribution. Cette interprétation avait été ajoutée à tort dans une version précédente.
 
-## 3. Possible role for PreCogn
-PreCogn could record a workflow: contribution submitted → evidence attached → evaluation → decision → reward attribution → audit trail. This is a concept to investigate, not a claim that the full mechanism already exists.
+## Base technique discutée
 
-## 4. Possible utility
-Potential utility to validate with actual users:
-- recognition and reward for contributions;
-- participation in ecosystem programs;
-- access to specific services or benefits, if there is a real need;
-- transparent tracking of grants or contribution budgets.
+- Blockchain envisagée : Ethereum.
+- Standard à examiner : ERC-20.
+- Plafond de supply discuté : 100 000 000 STRUCTORY.
+- Aucun token n'est émis et aucun contrat n'est déployé.
 
-Do not invent utility merely to justify a token. Test whether conventional points, grants or accounting would solve the problem more simply.
+## Valorisation et supply : deux notions distinctes
 
-## 5. Distribution and exchange
-Progressive distribution may be worth exploring. Transferability or exchange listing, if legally and technically appropriate, does not create demand or liquidity by itself. No buyer or counterparty can be guaranteed.
+Un objectif de valorisation à terme de **100 M€ pour Structory–PreCogn** a été évoqué. Ce chiffre ne fixe pas la valeur du token, ne garantit pas la capitalisation du token et ne doit pas être confondu avec le plafond de 100 millions de STRUCTORY.
 
-## 6. Guardrails
-- no promise of price increase, profit, liquidity or listing;
-- no marketing as an investment before legal and economic analysis;
-- distinguish earned rewards, grants, founder allocations and any sale;
-- publish rules and changes transparently;
-- obtain independent legal, tax, accounting and smart-contract security advice before launch.
+## Gouvernance
+
+Un principe d'arbitrage a été discuté : Larose75 en premier ressort, puis un mécanisme collectif. Les modalités de ce mécanisme restent à définir.
+
+## Questions économiques encore ouvertes
+
+- Comment le token démarre-t-il et trouve-t-il des échanges sans supposer une contrepartie garantie ?
+- Comment les tokens servent-ils effectivement aux paiements de missions et aux échanges de services ?
+- Quelle répartition est déjà attribuée et quelle part reste disponible ?
+- Quelles règles de déblocage progressif s'appliquent aux allocations concernées ?
+- Quel cadre juridique, fiscal et comptable s'applique avant un lancement réel ?
