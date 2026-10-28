@@ -1,30 +1,29 @@
-# Tokenomics — preliminary hypotheses only
+# Hypothèses économiques discutées — STRUCTORY
 
-**Nothing in this document is approved or final.** The figures below preserve early brainstorming. They must be tested against a real contribution model, funding needs, governance and legal constraints.
+Ce document conserve les chiffres qui ont réellement été abordés. Il distingue les plafonds, les objectifs de valorisation, les allocations et les pistes de financement. Rien ici ne constitue une promesse de valeur, de liquidité ou de rendement.
 
-## Early numbers mentioned in brainstorming
+## Paramètres discutés
 
-| Item | Initial hypothesis | Status |
+| Élément | Valeur évoquée | Sens |
 |---|---:|---|
-| Maximum supply | 100,000,000 tokens | Illustrative only |
-| Potential reserve for contribution rewards | 60,000,000 tokens | Illustrative only |
-| Initial allocation for Larose75 | 10,000 tokens | Illustrative only; not a commitment |
-| Pre-seed funding target discussed | €150,000 or US$200,000 | Alternatives discussed, not a financing decision |
-| Possible allocation to contributors | A portion of remaining or reserved tokens | Formula and criteria not defined |
+| Plafond maximal | 100 000 000 STRUCTORY | Nombre maximal de tokens envisagé |
+| Valorisation cible à terme de Structory–PreCogn | 100 M€ | Objectif concernant l'écosystème/entreprise, pas une valeur garantie des tokens |
+| Allocation Larose75 | 1 000 000 STRUCTORY | Allocation discutée, avec déblocage progressif accepté comme principe |
+| Blockchain | Ethereum | Piste technique |
+| Standard de token | ERC-20 | Standard à examiner |
 
-These figures are not a cap table, binding allocation, valuation, sale offer or token contract specification.
+## Financement et rémunération des contributeurs
 
-## Questions before a model can be evaluated
-1. Is the token needed, or would points/grants be better initially?
-2. What counts as a contribution and who validates it?
-3. What are the supply and issuance schedule, and why?
-4. How are founder, contributor, treasury, ecosystem and investor allocations separated?
-5. How are disputed, abandoned or returned allocations handled?
-6. How does the pre-seed relate to the budget, and is any token sale contemplated?
-7. What governance controls changes to rules, supply and allocations?
-8. What legal, tax, accounting and regulatory regime applies?
-9. What demonstrates real demand before considering exchange access?
-10. What security review and operational controls are required?
+Une discussion ultérieure a porté sur un pré-seed et sur la manière de rémunérer le travail de développement, notamment Larose75 et les contributeurs. Les montants ne doivent pas être présentés isolément comme une décision finale ni mélangés avec les allocations de tokens ci-dessus : il faut se référer à la proposition de financement précise et clarifier le lien entre fonds levés, rémunération en euros/dollars et allocations de STRUCTORY.
 
-## Important distinction
-A token can be technically transferable without being liquid. A market requires willing buyers and sellers; exchange listing and a counterparty cannot be guaranteed.
+## Principes à clarifier
+
+- Inventorier les tokens déjà attribués et ceux qui restent à attribuer.
+- Définir les règles de déblocage progressif (vesting) pour les allocations concernées.
+- Définir comment les tokens seront utilisés pour payer des missions et acheter/vendre des services.
+- Définir le fonctionnement pratique de l'échange et du démarrage du marché sans promettre de liquidité.
+- Distinguer clairement les fonds de pré-seed, la rémunération du travail, la distribution des tokens et la valorisation cible de Structory–PreCogn.
+
+## Attention
+
+Le plafond de 100 millions de tokens ne signifie pas que chaque token vaut 1 €, et l'objectif de valorisation de 100 M€ ne garantit ni prix de marché, ni capitalisation, ni liquidité.
